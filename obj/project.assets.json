@@ -3703,11 +3703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Explicit Wait Sol-2\\Explicit Wait Sol-2.csproj",
+      "projectUniqueName": "D:\\Automation\\Selenium\\Round-2\\Explicit Wait Sol-2\\Explicit Wait Sol-2.csproj",
       "projectName": "Explicit Wait Sol-2",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\Explicit Wait Sol-2\\Explicit Wait Sol-2.csproj",
+      "projectPath": "D:\\Automation\\Selenium\\Round-2\\Explicit Wait Sol-2\\Explicit Wait Sol-2.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\Explicit Wait Sol-2\\obj\\",
+      "outputPath": "D:\\Automation\\Selenium\\Round-2\\Explicit Wait Sol-2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
