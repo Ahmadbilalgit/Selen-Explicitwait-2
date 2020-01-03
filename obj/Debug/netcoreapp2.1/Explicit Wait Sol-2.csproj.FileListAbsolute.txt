@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\bin\Debug\netcoreapp2.1\Explicit Wait Sol-2.deps.json
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\bin\Debug\netcoreapp2.1\Explicit Wait Sol-2.runtimeconfig.json
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\bin\Debug\netcoreapp2.1\Explicit Wait Sol-2.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\bin\Debug\netcoreapp2.1\Explicit Wait Sol-2.dll
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\obj\Debug\netcoreapp2.1\Explicit Wait Sol-2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\obj\Debug\netcoreapp2.1\Explicit Wait Sol-2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\obj\Debug\netcoreapp2.1\Explicit Wait Sol-2.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\obj\Debug\netcoreapp2.1\Explicit Wait Sol-2.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\bin\Debug\netcoreapp2.1\Explicit Wait Sol-2.pdb
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\obj\Debug\netcoreapp2.1\Explicit Wait Sol-2.dll
+C:\Users\Hp\source\repos\Explicit Wait Sol-2\obj\Debug\netcoreapp2.1\Explicit Wait Sol-2.pdb
